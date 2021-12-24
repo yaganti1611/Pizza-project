@@ -12,7 +12,13 @@ Offers
 =======
 pizza 3
 >>>>>>> c904ce3 (initial commit)
+<<<<<<< Updated upstream
 =======
 pizza 3
 >>>>>>> c904ce3 (initial commit)
 Git cherry-pick added
+=======
+
+
+****git stash****
+>>>>>>> Stashed changes
