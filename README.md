@@ -22,6 +22,7 @@ Git cherry-pick added
 
 ****git stash****
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 
@@ -29,3 +30,7 @@ git stash pop
 >>>>>>> Stashed changes
 
 ******************
+=======
+
+git stash pop
+>>>>>>> Stashed changes
